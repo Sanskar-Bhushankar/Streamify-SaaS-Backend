@@ -1,0 +1,11 @@
+{
+  "name": "streamify-mern-saas-backend",
+  "version": "1.0.0",
+  "description": "Video streaming social media platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanskar-Bhushankar",
+  "license": "ISC"
+}
